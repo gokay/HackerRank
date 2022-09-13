@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Staircase", "Staircase\Stai
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlusMinus", "PlusMinus\PlusMinus.csproj", "{D51981F8-06EE-45AF-BCDF-AD4493DA4101}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Birthday-cake-candles", "Birthday-cake-candles\Birthday-cake-candles.csproj", "{1C04A5EC-D1D9-419F-AA8A-EA72D8DD5410}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{D51981F8-06EE-45AF-BCDF-AD4493DA4101}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D51981F8-06EE-45AF-BCDF-AD4493DA4101}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D51981F8-06EE-45AF-BCDF-AD4493DA4101}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C04A5EC-D1D9-419F-AA8A-EA72D8DD5410}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C04A5EC-D1D9-419F-AA8A-EA72D8DD5410}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C04A5EC-D1D9-419F-AA8A-EA72D8DD5410}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C04A5EC-D1D9-419F-AA8A-EA72D8DD5410}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
