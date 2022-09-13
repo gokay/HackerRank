@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day5-Loops", "Day5-Loops\Da
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Staircase", "Staircase\Staircase.csproj", "{C59B0946-4E33-4B8C-9108-CDE18A792779}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlusMinus", "PlusMinus\PlusMinus.csproj", "{D51981F8-06EE-45AF-BCDF-AD4493DA4101}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{C59B0946-4E33-4B8C-9108-CDE18A792779}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C59B0946-4E33-4B8C-9108-CDE18A792779}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C59B0946-4E33-4B8C-9108-CDE18A792779}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D51981F8-06EE-45AF-BCDF-AD4493DA4101}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D51981F8-06EE-45AF-BCDF-AD4493DA4101}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D51981F8-06EE-45AF-BCDF-AD4493DA4101}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D51981F8-06EE-45AF-BCDF-AD4493DA4101}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
