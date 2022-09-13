@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day7-arrays", "Day7-arrays\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A-very-big-sum", "A-very-big-sum\A-very-big-sum.csproj", "{F4CE44F7-898B-4AF9-93FF-CE536F641D51}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Compare-the-triplets", "Compare-the-triplets\Compare-the-triplets.csproj", "{32DD5DC5-8F15-46C8-A5C7-1E7AE4525BCF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{F4CE44F7-898B-4AF9-93FF-CE536F641D51}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4CE44F7-898B-4AF9-93FF-CE536F641D51}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4CE44F7-898B-4AF9-93FF-CE536F641D51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32DD5DC5-8F15-46C8-A5C7-1E7AE4525BCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32DD5DC5-8F15-46C8-A5C7-1E7AE4525BCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32DD5DC5-8F15-46C8-A5C7-1E7AE4525BCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32DD5DC5-8F15-46C8-A5C7-1E7AE4525BCF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
