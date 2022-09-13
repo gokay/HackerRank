@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Birthday-cake-candles", "Bi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple-array-sum", "Simple-array-sum\Simple-array-sum.csproj", "{FB940B4C-2E06-41B8-9CB8-AB886A1B8C96}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day7-arrays", "Day7-arrays\Day7-arrays.csproj", "{71AC0C9F-3F48-414A-9CCE-FA7280461C67}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{FB940B4C-2E06-41B8-9CB8-AB886A1B8C96}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB940B4C-2E06-41B8-9CB8-AB886A1B8C96}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB940B4C-2E06-41B8-9CB8-AB886A1B8C96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71AC0C9F-3F48-414A-9CCE-FA7280461C67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71AC0C9F-3F48-414A-9CCE-FA7280461C67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71AC0C9F-3F48-414A-9CCE-FA7280461C67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71AC0C9F-3F48-414A-9CCE-FA7280461C67}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
