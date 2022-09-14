@@ -3,27 +3,29 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32519.111
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day2-Operators", "Day2-Operators\Day2-Operators.csproj", "{3A6AA6EB-2B9F-449D-8DB0-556F84E1F46D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day2-Operators", "Day2-Operators\Day2-Operators.csproj", "{3A6AA6EB-2B9F-449D-8DB0-556F84E1F46D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solve-me-first", "Solve-me-first\Solve-me-first.csproj", "{71CE23CE-0964-40F1-A27F-45539BF10FA6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Solve-me-first", "Solve-me-first\Solve-me-first.csproj", "{71CE23CE-0964-40F1-A27F-45539BF10FA6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day3-Intro-to-conditionals", "Day3-Intro-to-conditionals\Day3-Intro-to-conditionals.csproj", "{4BDB85D0-214D-4ACB-8AAA-5A91A605E890}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day3-Intro-to-conditionals", "Day3-Intro-to-conditionals\Day3-Intro-to-conditionals.csproj", "{4BDB85D0-214D-4ACB-8AAA-5A91A605E890}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day5-Loops", "Day5-Loops\Day5-Loops.csproj", "{840B921B-B630-4311-B6E5-9B495BA8909D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day5-Loops", "Day5-Loops\Day5-Loops.csproj", "{840B921B-B630-4311-B6E5-9B495BA8909D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Staircase", "Staircase\Staircase.csproj", "{C59B0946-4E33-4B8C-9108-CDE18A792779}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Staircase", "Staircase\Staircase.csproj", "{C59B0946-4E33-4B8C-9108-CDE18A792779}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlusMinus", "PlusMinus\PlusMinus.csproj", "{D51981F8-06EE-45AF-BCDF-AD4493DA4101}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlusMinus", "PlusMinus\PlusMinus.csproj", "{D51981F8-06EE-45AF-BCDF-AD4493DA4101}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Birthday-cake-candles", "Birthday-cake-candles\Birthday-cake-candles.csproj", "{1C04A5EC-D1D9-419F-AA8A-EA72D8DD5410}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Birthday-cake-candles", "Birthday-cake-candles\Birthday-cake-candles.csproj", "{1C04A5EC-D1D9-419F-AA8A-EA72D8DD5410}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple-array-sum", "Simple-array-sum\Simple-array-sum.csproj", "{FB940B4C-2E06-41B8-9CB8-AB886A1B8C96}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Simple-array-sum", "Simple-array-sum\Simple-array-sum.csproj", "{FB940B4C-2E06-41B8-9CB8-AB886A1B8C96}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day7-arrays", "Day7-arrays\Day7-arrays.csproj", "{71AC0C9F-3F48-414A-9CCE-FA7280461C67}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day7-arrays", "Day7-arrays\Day7-arrays.csproj", "{71AC0C9F-3F48-414A-9CCE-FA7280461C67}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A-very-big-sum", "A-very-big-sum\A-very-big-sum.csproj", "{F4CE44F7-898B-4AF9-93FF-CE536F641D51}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A-very-big-sum", "A-very-big-sum\A-very-big-sum.csproj", "{F4CE44F7-898B-4AF9-93FF-CE536F641D51}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Compare-the-triplets", "Compare-the-triplets\Compare-the-triplets.csproj", "{32DD5DC5-8F15-46C8-A5C7-1E7AE4525BCF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Compare-the-triplets", "Compare-the-triplets\Compare-the-triplets.csproj", "{32DD5DC5-8F15-46C8-A5C7-1E7AE4525BCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day20-sorting", "Day20-sorting\Day20-sorting.csproj", "{58F83135-2DBF-4B4A-9F95-DA2A212E3645}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{32DD5DC5-8F15-46C8-A5C7-1E7AE4525BCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32DD5DC5-8F15-46C8-A5C7-1E7AE4525BCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{32DD5DC5-8F15-46C8-A5C7-1E7AE4525BCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58F83135-2DBF-4B4A-9F95-DA2A212E3645}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58F83135-2DBF-4B4A-9F95-DA2A212E3645}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58F83135-2DBF-4B4A-9F95-DA2A212E3645}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58F83135-2DBF-4B4A-9F95-DA2A212E3645}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
